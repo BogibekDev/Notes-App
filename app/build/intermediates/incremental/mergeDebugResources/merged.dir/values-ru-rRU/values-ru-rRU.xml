@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="str_add_note">Добавить примечание</string>
+    <string name="str_ascending">По возрастанию</string>
+    <string name="str_color">Цвет</string>
+    <string name="str_content_not_empty">Содержимое заметки не может быть пустым</string>
+    <string name="str_date">Дата</string>
+    <string name="str_delete_note">Удалить заметку</string>
+    <string name="str_descending">По убыванию</string>
+    <string name="str_enter_content">Введите Содержимое</string>
+    <string name="str_enter_title">Введите Заголовок</string>
+    <string name="str_note_deleted">Заметка удалена</string>
+    <string name="str_save_note">Сохранить заметку</string>
+    <string name="str_sort">Сортировать</string>
+    <string name="str_title">Заголовок</string>
+    <string name="str_title_not_empty">Заголовок примечания не может быть пустым</string>
+    <string name="str_undo">Отменить</string>
+    <string name="str_your_notes">Ваша заметка</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="str_delete_note">Delete note</string>
+    <string name="str_your_notes">Your Note</string>
+    <string name="str_sort">Sort</string>
+    <string name="str_add_note">Add note</string>
+    <string name="str_note_deleted">Note deleted</string>
+    <string name="str_undo">Undo</string>
+    <string name="str_descending">Descending</string>
+    <string name="str_ascending">Ascending</string>
+    <string name="str_color">Color</string>
+    <string name="str_date">Date</string>
+    <string name="str_title">Title</string>
+    <string name="str_save_note">Save Note</string>
+    <string name="str_title_not_empty">The title of the Note can\'t be empty</string>
+    <string name="str_content_not_empty">The content of the Note can\'t be empty</string>
+    <string name="str_enter_title">Enter title</string>
+    <string name="str_enter_content">Enter some content</string>
+</resources>

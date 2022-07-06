@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Eslatmalar" parent="Theme.Eslatmalar.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_gray</item>
+
+    </style>
+
+    <style name="Theme.Eslatmalar.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+</resources>

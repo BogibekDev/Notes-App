@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qaydnomalar</string>
+    <string name="str_add_note">Eslatma qo‘shish</string>
+    <string name="str_ascending">O‘sish tartibida</string>
+    <string name="str_color">Rang</string>
+    <string name="str_content_not_empty">Qaydning mazmuni bo‘sh bo‘lishi mumkin emas</string>
+    <string name="str_date">Sana</string>
+    <string name="str_delete_note">Qaydni o‘chirish</string>
+    <string name="str_descending">Kammayish tartibida</string>
+    <string name="str_enter_content">Mazmuni kiriting</string>
+    <string name="str_enter_title">Sarlavhani kiriting</string>
+    <string name="str_note_deleted">Qaydni o‘chirildi</string>
+    <string name="str_save_note">Qaydni saqlash</string>
+    <string name="str_sort">Tartiblash</string>
+    <string name="str_title">Sarlavha</string>
+    <string name="str_title_not_empty">Qaydning sarlavhasi bo‘sh bo‘lishi mumkin emas</string>
+    <string name="str_undo">Bekor qilish</string>
+    <string name="str_your_notes">Qaydlaringiz</string>
+</resources>

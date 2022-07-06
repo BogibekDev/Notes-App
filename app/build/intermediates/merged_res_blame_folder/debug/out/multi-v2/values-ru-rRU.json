@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bogibek/AndroidStudioProjects/Eslatmalar/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru-rRU/values-ru-rRU.xml",
+            "map": [
+                {
+                    "source": "/home/bogibek/AndroidStudioProjects/Eslatmalar/app/src/main/res/values-ru-rRU/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,18,17,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,4,4,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,980,918,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,64,61,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,1040,975,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,161,218,261,351,393,453,508,573,635,696,756,805,853,943,989",
+                        "endColumns": "44,60,56,42,89,41,59,54,64,61,60,59,48,47,89,45,55",
+                        "endOffsets": "95,156,213,256,346,388,448,503,568,630,691,751,800,848,938,984,1040"
+                    }
+                }
+            ]
+        }
+    ]
+}

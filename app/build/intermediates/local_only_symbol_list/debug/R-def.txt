@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color dark_gray
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string str_add_note
+string str_ascending
+string str_color
+string str_content_not_empty
+string str_date
+string str_delete_note
+string str_descending
+string str_enter_content
+string str_enter_title
+string str_note_deleted
+string str_save_note
+string str_sort
+string str_title
+string str_title_not_empty
+string str_undo
+string str_your_notes
+style Theme.Eslatmalar
+style Theme.Eslatmalar.NoActionBar
+xml backup_rules
+xml data_extraction_rules
