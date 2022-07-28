@@ -16,7 +16,7 @@ private val DarkColorPalette = darkColors(
 )
 
 @Composable
-fun EslatmalarTheme(darkTheme: Boolean = true, content: @Composable() () -> Unit) {
+fun EslatmalarTheme(content: @Composable() () -> Unit) {
     MaterialTheme(
         colors = DarkColorPalette,
         typography = Typography,

@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/home/bogibek/AndroidStudioProjects/Eslatmalar/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml",
+            "outputFile": "dev.bogibek.eslatmalar.app-mergeDebugResources-46:/values-uz-rUZ/values-uz-rUZ.xml",
             "map": [
                 {
                     "source": "/home/bogibek/AndroidStudioProjects/Eslatmalar/app/src/main/res/values-uz-rUZ/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,16,-1,-1,-1,18,17,-1,-1,-1,-1,15,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,4,-1,-1,-1,4,4,-1,-1,-1,-1,4,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,847,-1,-1,-1,1005,941,-1,-1,-1,-1,752,-1,-1",
-                        "endColumns": "-1,-1,-1,-1,93,-1,-1,-1,62,63,-1,-1,-1,-1,94,-1,-1",
-                        "endOffsets": "-1,-1,-1,-1,936,-1,-1,-1,1063,1000,-1,-1,-1,-1,842,-1,-1"
+                        "startLines": "2,6,10,11,16,12,3,9,18,17,7,14,5,13,15,8,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,269,503,563,847,606,104,440,1005,941,327,695,221,648,752,390,165",
+                        "endColumns": "48,57,59,42,93,41,60,62,62,63,62,56,47,46,94,49,55",
+                        "endOffsets": "99,322,558,601,936,643,160,498,1063,1000,385,747,264,690,842,435,216"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",

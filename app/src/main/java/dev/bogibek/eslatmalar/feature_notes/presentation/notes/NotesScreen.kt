@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalAnimationApi::class)
+
 package dev.bogibek.eslatmalar.feature_notes.presentation.notes
 
 import androidx.compose.animation.*
@@ -25,7 +27,6 @@ import dev.bogibek.eslatmalar.feature_notes.presentation.notes.viewmodel.NotesVi
 import dev.bogibek.eslatmalar.feature_notes.presentation.util.Screen
 import kotlinx.coroutines.launch
 
-@OptIn(ExperimentalAnimationApi::class)
 @Composable
 fun NotesScreen(
     navController: NavController,

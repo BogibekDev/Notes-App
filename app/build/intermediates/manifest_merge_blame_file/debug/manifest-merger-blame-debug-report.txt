@@ -17,7 +17,7 @@
 13        android:allowBackup="true"
 13-->/home/bogibek/AndroidStudioProjects/Eslatmalar/app/src/main/AndroidManifest.xml:8:9-35
 14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-14-->[androidx.core:core:1.7.0] /home/bogibek/.gradle/caches/transforms-3/848b8c8b337c83bb3f212bc0d977e36f/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+14-->[androidx.core:core:1.7.0] /home/bogibek/.gradle/caches/transforms-3/ade9673588938cad5297a7219a946fd8/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 15        android:dataExtractionRules="@xml/data_extraction_rules"
 15-->/home/bogibek/AndroidStudioProjects/Eslatmalar/app/src/main/AndroidManifest.xml:9:9-65
 16        android:debuggable="true"
@@ -56,60 +56,60 @@
 33            </intent-filter>
 34        </activity>
 35        <activity
-35-->[androidx.compose.ui:ui-tooling:1.0.2] /home/bogibek/.gradle/caches/transforms-3/91d9042767eb3285a6a44e1cd809b054/transformed/ui-tooling-1.0.2/AndroidManifest.xml:25:9-27:39
+35-->[androidx.compose.ui:ui-tooling:1.0.2] /home/bogibek/.gradle/caches/transforms-3/de11f40bdbbc1d4e4d61fa1383465092/transformed/ui-tooling-1.0.2/AndroidManifest.xml:25:9-27:39
 36            android:name="androidx.compose.ui.tooling.PreviewActivity"
-36-->[androidx.compose.ui:ui-tooling:1.0.2] /home/bogibek/.gradle/caches/transforms-3/91d9042767eb3285a6a44e1cd809b054/transformed/ui-tooling-1.0.2/AndroidManifest.xml:26:13-71
+36-->[androidx.compose.ui:ui-tooling:1.0.2] /home/bogibek/.gradle/caches/transforms-3/de11f40bdbbc1d4e4d61fa1383465092/transformed/ui-tooling-1.0.2/AndroidManifest.xml:26:13-71
 37            android:exported="true" />
-37-->[androidx.compose.ui:ui-tooling:1.0.2] /home/bogibek/.gradle/caches/transforms-3/91d9042767eb3285a6a44e1cd809b054/transformed/ui-tooling-1.0.2/AndroidManifest.xml:27:13-36
+37-->[androidx.compose.ui:ui-tooling:1.0.2] /home/bogibek/.gradle/caches/transforms-3/de11f40bdbbc1d4e4d61fa1383465092/transformed/ui-tooling-1.0.2/AndroidManifest.xml:27:13-36
 38        <activity
-38-->[androidx.compose.ui:ui-test-manifest:1.0.2] /home/bogibek/.gradle/caches/transforms-3/69c7e914602fc253e28483a4cd247828/transformed/ui-test-manifest-1.0.2/AndroidManifest.xml:25:9-27:39
+38-->[androidx.compose.ui:ui-test-manifest:1.0.2] /home/bogibek/.gradle/caches/transforms-3/41b0219e27524ff46d49b9b3f786753e/transformed/ui-test-manifest-1.0.2/AndroidManifest.xml:25:9-27:39
 39            android:name="androidx.activity.ComponentActivity"
-39-->[androidx.compose.ui:ui-test-manifest:1.0.2] /home/bogibek/.gradle/caches/transforms-3/69c7e914602fc253e28483a4cd247828/transformed/ui-test-manifest-1.0.2/AndroidManifest.xml:26:13-63
+39-->[androidx.compose.ui:ui-test-manifest:1.0.2] /home/bogibek/.gradle/caches/transforms-3/41b0219e27524ff46d49b9b3f786753e/transformed/ui-test-manifest-1.0.2/AndroidManifest.xml:26:13-63
 40            android:exported="true" />
-40-->[androidx.compose.ui:ui-test-manifest:1.0.2] /home/bogibek/.gradle/caches/transforms-3/69c7e914602fc253e28483a4cd247828/transformed/ui-test-manifest-1.0.2/AndroidManifest.xml:27:13-36
+40-->[androidx.compose.ui:ui-test-manifest:1.0.2] /home/bogibek/.gradle/caches/transforms-3/41b0219e27524ff46d49b9b3f786753e/transformed/ui-test-manifest-1.0.2/AndroidManifest.xml:27:13-36
 41
 42        <service
-42-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/8a39f1201395e39f34eb027b1dd5fbad/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+42-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/cfefb648a8137b662bfc39eea0c11614/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
 43            android:name="androidx.room.MultiInstanceInvalidationService"
-43-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/8a39f1201395e39f34eb027b1dd5fbad/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+43-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/cfefb648a8137b662bfc39eea0c11614/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
 44            android:directBootAware="true"
-44-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/8a39f1201395e39f34eb027b1dd5fbad/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+44-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/cfefb648a8137b662bfc39eea0c11614/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
 45            android:exported="false" />
-45-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/8a39f1201395e39f34eb027b1dd5fbad/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+45-->[androidx.room:room-runtime:2.3.0] /home/bogibek/.gradle/caches/transforms-3/cfefb648a8137b662bfc39eea0c11614/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
 46
 47        <provider
-47-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:26:9-34:20
+47-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:26:9-34:20
 48            android:name="androidx.startup.InitializationProvider"
-48-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:27:13-67
+48-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:27:13-67
 49            android:authorities="dev.bogibek.eslatmalar.androidx-startup"
-49-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:28:13-68
+49-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:28:13-68
 50            android:exported="false" >
-50-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:29:13-37
+50-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:29:13-37
 51            <meta-data
-51-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:31:13-33:52
+51-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:31:13-33:52
 52                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-52-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:32:17-85
+52-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:32:17-85
 53                android:value="androidx.startup" />
-53-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:33:17-49
+53-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:33:17-49
 54        </provider>
 55
 56        <receiver
-56-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:36:9-45:20
+56-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:36:9-45:20
 57            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-57-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:37:13-76
+57-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:37:13-76
 58            android:directBootAware="false"
-58-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:38:13-44
+58-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:38:13-44
 59            android:enabled="true"
-59-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:39:13-35
+59-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:39:13-35
 60            android:exported="true"
-60-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:40:13-36
+60-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:40:13-36
 61            android:permission="android.permission.DUMP" >
-61-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:41:13-57
+61-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:41:13-57
 62            <intent-filter>
-62-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:42:13-44:29
+62-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:42:13-44:29
 63                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-63-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:43:17-91
-63-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/f6c72668ba79555d85c39f4ac31e4132/transformed/profileinstaller-1.0.2/AndroidManifest.xml:43:25-88
+63-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:43:17-91
+63-->[androidx.profileinstaller:profileinstaller:1.0.2] /home/bogibek/.gradle/caches/transforms-3/9a48fa2000215adec9a84a252d6b9a1d/transformed/profileinstaller-1.0.2/AndroidManifest.xml:43:25-88
 64            </intent-filter>
 65        </receiver>
 66    </application>
