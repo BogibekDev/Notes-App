@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/bogibek/AndroidStudioProjects/Eslatmalar/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
+            "outputFile": "dev.bogibek.eslatmalar.app-mergeDebugResources-46:/values-th/values-th.xml",
             "map": [
                 {
-                    "source": "/home/bogibek/.gradle/caches/transforms-3/e70c4897fbd59bf7e5d74c5e56c67cbb/transformed/ui-1.0.2/res/values-th/values-th.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,191,268,365,450,552,638,721,786,852,925,992",
-                        "endColumns": "85,76,96,84,101,85,82,64,65,72,66,122",
-                        "endOffsets": "186,263,360,445,547,633,716,781,847,920,987,1110"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,191,268,365,450,552,638,721,786,852,1026,1093",
-                        "endColumns": "85,76,96,84,101,85,82,64,65,72,66,122",
-                        "endOffsets": "186,263,360,445,547,633,716,781,847,920,1088,1211"
-                    }
-                },
-                {
-                    "source": "/home/bogibek/.gradle/caches/transforms-3/848b8c8b337c83bb3f212bc0d977e36f/transformed/core-1.7.0/res/values-th/values-th.xml",
+                    "source": "/home/bogibek/.gradle/caches/transforms-3/ade9673588938cad5297a7219a946fd8/transformed/core-1.7.0/res/values-th/values-th.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,6 +18,23 @@
                         "startOffsets": "925",
                         "endColumns": "100",
                         "endOffsets": "1021"
+                    }
+                },
+                {
+                    "source": "/home/bogibek/.gradle/caches/transforms-3/ab99c4e1a043572a4d8a61d6b97e5c3a/transformed/ui-1.0.2/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,191,268,365,450,552,638,721,786,852,925,992",
+                        "endColumns": "85,76,96,84,101,85,82,64,65,72,66,122",
+                        "endOffsets": "186,263,360,445,547,633,716,781,847,920,987,1110"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,191,268,365,450,552,638,721,786,852,1026,1093",
+                        "endColumns": "85,76,96,84,101,85,82,64,65,72,66,122",
+                        "endOffsets": "186,263,360,445,547,633,716,781,847,920,1088,1211"
                     }
                 }
             ]
